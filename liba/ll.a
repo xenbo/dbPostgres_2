@@ -1,0 +1,10 @@
+./port/libpgport_srv.a
+./port/libpgport.a
+./common/libpgcommon.a
+./common/libpgcommon_srv.a
+./fe_utils/libpgfeutils.a
+./ll.a
+./interfaces/ecpg/ecpglib/libecpg.a
+./interfaces/ecpg/compatlib/libecpg_compat.a
+./interfaces/ecpg/pgtypeslib/libpgtypes.a
+./interfaces/libpq/libpq.a
